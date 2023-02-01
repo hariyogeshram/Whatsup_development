@@ -15,3 +15,5 @@ Author : Hariyogeshram
 6. Adding the audio call features
 
 7. Adding the video call features
+
+8. Sharing pictures/videos to eveyone from our contacts
